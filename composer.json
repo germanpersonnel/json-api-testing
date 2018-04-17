@@ -1,5 +1,5 @@
 {
-    "name": "cloudcreativity/json-api-testing",
+    "name": "germanpersonnel/cloudcreativity-json-api-testing",
     "description": "PHPUnit test helpers to check JSON API documents.",
     "keywords": [
         "jsonapi.org",
@@ -22,7 +22,7 @@
     ],
     "require": {
         "php": "^5.6|^7.0",
-        "cloudcreativity/utils-object": "^1.0",
+        "germanpersonnel/cloudcreativity-utils-object": "^1.0",
         "phpunit/phpunit": "^5.7|^6.0|^7.0"
     },
     "autoload": {
